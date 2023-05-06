@@ -1,5 +1,5 @@
 # Analyse discriminante pour l'amélioration de la satisfaction des étudiants 
- ## Introduction
+ ## Déscription
 Ce projet  vise à améliorer la satisfaction des étudiants en restaurant universitaire. Pour cela, une analyse discriminante a été réalisée pour identifier les facteurs influençant la satisfaction des étudiants et proposer des actions concrètes à l'entreprise BETA.
 
 ## Données
